@@ -1,0 +1,49 @@
+port 6 and 8 = IP Camera 
+port 1 = s 
+port 2 = WC 
+Port 4= AP
+port 5 = ip Phone 
+Port 7 = Ip phone 
+POrt 3 = SM 
+
+no logging console 
+no ip domain look up 
+
+Cena= Enable 
+SIIB= show ip int brief 
+SVB= Show Vlan Brief 
+SIT = Show interface trunk 
+SI = show ip dhcp binding 
+SMAC = sh mac address-table
+scn: show cdp neighborshow 
+SIRO= show ip route ospf 
+
+hesno: Hostname, enable sec pass, service password, no logg, no ip dim 
+
+to check MAC ADDRESS 
+show mac address-table
+
+
+csim 
+
+------------------------
+
+1. POE 
+2. SVU
+3. DHCP Server 
+4. VLAN Creation / VLan management 
+5. Layer 3 Swtiching 
+
+1. KTS - Key Telephone System
+2. ip telephony
+3. in/out going 
+4. Video calls 
+5. IVRS - call manager 
+
+
+edge
+1 Routing Static
+2 Routing OSPF
+3Routing EIGRP
+4Routing BGP
+5 Routing VPN 
