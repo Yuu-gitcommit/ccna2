@@ -150,7 +150,7 @@ end
 @A1:
 CONFIG T
 INT E0/0
-switchport mode access
+switchport mode access //This port is for ONE VLAN/Device 
 switchport access vlan 3
 end
 @p1:
