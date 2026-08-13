@@ -353,6 +353,10 @@ show ip route connected | inc C
 
 TASK8: Static Route for Network Engineer
        to earn 560php/Day.
+
+// SYNTAX:
+conf t
+ip route <remote net addr> <subnetmask> <next hop ip addr>
 R4: must learn network 4/5
 @r4:                              1stHop/UnangHole
 config t
